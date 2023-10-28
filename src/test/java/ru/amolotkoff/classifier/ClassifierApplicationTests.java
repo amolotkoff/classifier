@@ -9,5 +9,4 @@ class ClassifierApplicationTests {
 	@Test
 	void contextLoads() {
 	}
-
 }
